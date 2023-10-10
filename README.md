@@ -12,13 +12,13 @@ Programa simples, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
-  <img alt="License" src="./images/readme.png">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="projeto devlinks" src=".github/preview.jpg" width="100%">
+  <img alt="projeto correção de bugs rocketseat" src="./images/readme.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
